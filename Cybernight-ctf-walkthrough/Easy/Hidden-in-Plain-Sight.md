@@ -1,5 +1,5 @@
 # Walkthrough – Challenge 1: *Hidden in Plain Sight*
-
+![Banner](https://github.com/AASTU-CSC/CTF-Walkthrough/blob/main/Assets/Image/Never-Gonna-Give-You-Up.png?raw=true)
 **Description:**
 
 What if your eyes are missing more than just pixels? Within an ordinary file lies an extraordinary secret. Steganography hides messages in plain sight — can you spot the hidden truth?
