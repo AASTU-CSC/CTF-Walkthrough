@@ -1,15 +1,15 @@
 # Walkthrough – Challenge 1: *Hidden in Plain Sight*
 
-**Room by**: ![0xfke](https://0xfke.github.io/about) <br>
+**Description:**
+
+What if your eyes are missing more than just pixels? Within an ordinary file lies an extraordinary secret. Steganography hides messages in plain sight — can you spot the hidden truth?
+
 **Level**: Easy 🟢 <br>
 **Challenge Link**: [Hidden in plain sight](https://t.me/AASTU_CyberClub/150) <br>
 **Technique**:  EXIF-based Steganography <br>
 **Tool**: [Exiftool](https://github.com/exiftool/exiftool) <br>
 **Point: 100** <br>
 
-**Description:**
-
-What if your eyes are missing more than just pixels? Within an ordinary file lies an extraordinary secret. Steganography hides messages in plain sight — can you spot the hidden truth?
 
 ### Concept Behind the Challenge
 
@@ -42,3 +42,6 @@ https://github.com/user-attachments/assets/891e6ee9-3a80-4ab7-8f49-1f2cfdcf81c2
 ```sh
 flag{h3110_fr0m_th3_0th3r_1ay3r}
 ```
+
+
+**Room by**: [0xfke](https://0xfke.github.io/about) 
