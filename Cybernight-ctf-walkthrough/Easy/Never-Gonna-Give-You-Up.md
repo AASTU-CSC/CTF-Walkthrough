@@ -30,12 +30,12 @@ EXIF metadata is often **overlooked in publicly posted files** on social media, 
 
 This string looks like it is encrypted using base64 from the structure at the end "=". taking it and decoding it gives us our first flag.
 
-![flag](Images/WriteUp-Image/flag1.2.png)
+![flag](https://github.com/0xfke/0xfke.github.io/blob/313b7687cd472af4ee5622c018a9bf1f793a443b/Images/WriteUp-Image/flag1.2.png)
 
 
 You can also take the encrypted string and go to [cyberchef](https://gchq.github.io/CyberChef/) web which is basically a decryption and encryption tools repo.
 
-{% include embed/youtube.html id='jhtFMqbp0bg' %}
+{
 
 ✅ **Flag captured successfully!**
 
