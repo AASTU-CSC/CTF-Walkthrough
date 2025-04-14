@@ -1,6 +1,8 @@
 # Walkthrough – Challenge 1: *Hidden in Plain Sight*
 
-## Room by ![0xfke](https://0xfke.gitub.io/about) 
+## Room by 
+
+![0xfke](https://0xfke.gitub.io/about) 
 
 **Level**: Easy 🟢 <br>
 **Challenge Link**: [Hidden in plain sight](https://t.me/AASTU_CyberClub/150) <br>
