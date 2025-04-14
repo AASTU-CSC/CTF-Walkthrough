@@ -1,8 +1,6 @@
 # Walkthrough – Challenge 1: *Hidden in Plain Sight*
 
-
-
-# Cyber Night CTF Day 01 Walkthrough Challenge 1
+## Room by ![0xfke](https://0xfke.gitub.io/about) 
 
 **Level**: Easy 🟢 <br>
 **Challenge Link**: [Hidden in plain sight](https://t.me/AASTU_CyberClub/150) <br>
