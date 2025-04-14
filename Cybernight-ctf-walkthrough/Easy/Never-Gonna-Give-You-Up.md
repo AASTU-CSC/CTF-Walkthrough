@@ -26,7 +26,7 @@ In this challenge, the **flag** is hidden inside the **metadata of an image** fi
 
 EXIF metadata is often **overlooked in publicly posted files** on social media, blogs, or websites. Attackers may use EXIF-based steganography to embed covert messages in **images** shared online, making it harder to detect at first glance. For **OSINT (Open-Source Intelligence)** gathering, analyzing metadata from publicly available images can provide critical information — from hidden messages to **location data** or even **timestamps** that reveal more about a target.
 
-![flag1](https://github.com/0xfke/0xfke.github.io/Images/WriteUp-Image/flag1.1.png)
+![flag1](https://github.com/0xfke/0xfke.github.io/blob/313b7687cd472af4ee5622c018a9bf1f793a443b/Images/WriteUp-Image/flag1.1.png)
 
 This string looks like it is encrypted using base64 from the structure at the end "=". taking it and decoding it gives us our first flag.
 
