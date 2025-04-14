@@ -18,9 +18,10 @@ The hidden message lies within the frequencies of the audio. Start by examining 
 
 A **spectrogram** is a visual representation of sound: frequency (vertical) over time (horizontal), with brightness indicating intensity.
 
-In this challenge, a **text flag** (like `flag{text_flag}`) was **rendered as an image**, and that image was **converted into sound waves**. When opened with a spectrogram viewer, the hidden message is revealed visually — **not audibly**.
+In this challenge, a **text flag** (like `flag{text_flag}`) was **rendered as an image**, and that image was **converted into sound waves**. When opened with a spectrogram viewer, the hidden message is revealed visually — **not audibly**
 
-{% include embed/youtube.html id='HfkLSR_aLFE' %}
+https://github.com/user-attachments/assets/d90988f90165bf4746a0c08314bc534ab2da4f47
+
 
 Boom we got the flag for challenge two but it is inverted, so we need to take screenshot and flip it Vertically then flip Horizontally. Here we goooo we found our flag.
 
