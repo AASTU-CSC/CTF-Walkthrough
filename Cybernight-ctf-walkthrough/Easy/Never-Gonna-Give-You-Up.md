@@ -35,7 +35,10 @@ This string looks like it is encrypted using base64 from the structure at the en
 
 You can also take the encrypted string and go to [cyberchef](https://gchq.github.io/CyberChef/) web which is basically a decryption and encryption tools repo.
 
-{
+
+https://github.com/user-attachments/assets/891e6ee9-3a80-4ab7-8f49-1f2cfdcf81c2
+
+
 
 ✅ **Flag captured successfully!**
 
